@@ -1,0 +1,1 @@
+I’m creating a website from scratch to showcase a collection of recipes, using Windows Subsystem for Linux (WSL) with Ubuntu. This setup allows me to leverage the powerful tools and environment of Ubuntu while working seamlessly within a Windows system.

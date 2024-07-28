@@ -1,0 +1,87 @@
+body {
+    background-color: rgb(245, 235, 236);
+    font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+
+.index-h1 {
+    text-align: center;
+    background-color: rgb(245, 198, 210);
+    font-weight: 500;
+    padding: 20px;
+    margin: 0;
+}
+
+.main-img-container {
+    width: 100%;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.main-img {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+
+h2 {
+    display: block;
+    text-align: center;
+    background-color: rgb(237, 212, 216);
+    font-weight: 500;   
+    padding: 15px;
+    margin: 20px 0;
+}
+
+h3.join-us, h3.Discover, h3.buon {
+    text-align: center;
+}
+
+.Welcome {
+    font-weight: 200px;
+    text-align: center;
+    font-size: 18px;
+}
+
+h3.Discover {
+    margin-top: 50px;
+    text-decoration: underline;
+}
+
+h4 {
+    margin: 20px 0 10px 0;
+    padding-left: 20px;
+}
+
+h4 a {
+    text-decoration: none;
+    color: #c0392b;
+    transition: color 0.3s ease;
+}
+
+h4 a:hover {
+    color: #e74c3c;
+}
+
+p {
+    padding: 0 20px 20px 20px;
+    text-align: justify;
+    margin: 0;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(245, 198, 210);
+    padding: 10px;
+    margin-top: 40px;
+    font-size: 0.9em;
+}
